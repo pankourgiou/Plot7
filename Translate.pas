@@ -1,15 +1,15 @@
 #in order to install you need to type pip install translators
-import time
+#import time
 
 
-t1 = time.time()
+#t1 = time.time()
 
-import translators as ts
+#import translators as ts
 
-text = 'cheese'
+#text = 'cheese'
 
-print(ts.bing(text, from_language ='en', to_language = 'fr'))
+#print(ts.bing(text, from_language ='en', to_language = 'fr'))
 
-t2 = time.time()
-t = t2 - t1
-print("Elapsed time is : ", t, " seconds")
+#t2 = time.time()
+#t = t2 - t1
+#print("Elapsed time is : ", t, " seconds")
