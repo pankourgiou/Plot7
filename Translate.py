@@ -1,4 +1,6 @@
+#Install translators module with pip install translators
 import time
+time.sleep(6)
 import antigravity
 
 
